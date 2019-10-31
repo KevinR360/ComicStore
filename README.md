@@ -2,6 +2,10 @@
 
 Projeto simples utilizando a api da [Marvel](https://developer.marvel.com).
 
+# Testar:
+
+Para testar é necessário ter o Expo instalado, verifique a [documentação](https://docs.expo.io/versions/latest/).
+
 # Heroes
 
 <img src="assets/Heroes.png" />
